@@ -9,3 +9,4 @@ python-magic
 rarfile
 TgCrypto
 speedtest-cli
+aiohttp
